@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Patryk-Majchrzak
-- 🌱 I’m currently learning JavaScript with React.js framework
+# Hello there
+
+👋 I’m @Patryk-Majchrzak
+🌱 I’m currently learning JavaScript with React.js framework
 
 <!---
 Patryk-Majchrzak/Patryk-Majchrzak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
